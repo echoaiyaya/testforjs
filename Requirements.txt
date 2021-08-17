@@ -1,0 +1,15 @@
+In this package, we have included 5 images and one Requirements.txt:
+1. Image1.JPG to Image4.JPG are the images of same house from four different year’s;
+2. Frame.JPG is the proposed web page design;
+3. Requirements.txt describes the task.
+
+Within two hours, could you please?
+1. Build a sample page using html and JavaScript similar to the design described in Frame.JPG;
+2. When the mouse hover over any of the thumbnail within the bottom stripe, the pointed image will be shown in the main part of the window;
+3. When the mouse moved out of the stripe, the main window will be recovered to the last image, unless the user clicked on the thumbnail to confirm the selection;
+
+Please email Yanbo.Zhou@ilookabout.com if you have any questions.
+
+Thanks for your willingness.
+
+Yanbo Zhou
